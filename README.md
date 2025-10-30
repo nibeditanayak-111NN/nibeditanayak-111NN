@@ -8,15 +8,15 @@
   from Gandhi Institute for Education and Technology, Khordha  
 - 🏫 *School:* BBGH, Gopinathapura  
 - 🏫 *Higher Secondary:* Marsaghai Higher Secondary School, Marsaghai  
-- 💡 Fascinated about solving *real-world problems* through technology.  
-- 🌱 I have completed *HTML, Java, Python, and Data Structures*.  
-- 🤖 Currently exploring *Artificial Intelligence* and *Backend Development*.  
+- 💡 Fascinated about solving *real-world problems* through technology  
+- 🌱 Completed *HTML, Java, Python, and Data Structures*  
+- 🤖 Currently exploring *Artificial Intelligence* and *Backend Development*
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux&perline=6" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### 🧠 Competitive Programming
 - 💬 I occasionally solve coding problems on *LeetCode*  
   *(Sample profile: [leetcode.com/u/leetcodepro123](https://leetcode.com/u/leetcodepro123))*  
-- 🧩 Focused on improving problem-solving and DSA skills.
+- 🧩 Focused on improving problem-solving and mastering DSA  
 
 ---
 
@@ -42,6 +42,33 @@ Here are a few projects that reflect my interests:
 - 🛠 Backend Development  
 - 🌍 Building impactful, real-world solutions  
 - 📚 Continuous learning and innovation  
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nibeditanayak-111NN&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🧩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -68,18 +95,4 @@ Here are a few projects that reflect my interests:
 ⭐ *Profile Views*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nibeditanayak-111NN&label=Profile%20Views&color=0e75b6&style=flat" alt="nibeditanayak-111NN" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nibeditanayak-111NN&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
