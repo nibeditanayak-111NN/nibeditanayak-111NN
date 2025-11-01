@@ -41,20 +41,16 @@
 | ⚙ *Student Management System* | Record management system for students | Java, MySQL |
 | 🌦 *Weather App* | Displays real-time weather using public APIs | Python, Requests, JSON |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibeditanayak-111NN&repo=AI-Career-Assistant&theme=tokyonight&hide_border=true" alt="Pinned Project" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -95,4 +91,4 @@
 
 ---
 
-⭐ *"Don’t just learn to code — learn to solve problems that matter."
+⭐ *"Don’t just learn to code — learn to solve problems that matter."*
