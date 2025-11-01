@@ -4,28 +4,28 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 *B.Tech in Computer Science and Engineering*  
-  from Gandhi Institute for Education and Technology, Khordha  
-- 🏫 *School:* BBGH, Gopinathapura  
-- 🏫 *Higher Secondary:* Marsaghai Higher Secondary School, Marsaghai  
-- 💡 Passionate about solving *real-world problems* using technology  
-- 🌱 Completed *HTML, Java, Python, and Data Structures*  
-- 🤖 Currently exploring *Artificial Intelligence* and *Backend Development*
+- 🎓 B.Tech in Computer Science and Engineering  
+  from *Gandhi Institute for Education and Technology, Khordha*  
+- 🏫 School: *BBGH, Gopinathapura*  
+- 🏫 Higher Secondary: *Marsaghai Higher Secondary School, Marsaghai*  
+- 💡 Passionate about solving *real-world problems* using technology.  
+- 🌱 Completed *HTML, Java, Python, and Data Structures*.  
+- 🤖 Currently exploring *Artificial Intelligence* and *Backend Development*.  
+- 🚀 Always curious to learn new technologies and build impactful projects.
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux,vscode,flask&perline=7" />
 </p>
 
 ---
 
 ### 🧠 Competitive Programming
-- 💬 I regularly solve problems on *LeetCode*  
-  👉 [My LeetCode Profile](https://leetcode.com/u/nibedita_nayak/)
-- 🧩 Focused on strengthening *Data Structures & Algorithms*  
-- 🎯 Goal: Achieve consistency and improve problem-solving depth  
+- 💬 Practicing problems on *LeetCode* to sharpen my DSA skills.  
+  👉 [View My LeetCode Profile](https://leetcode.com/u/nibedita_nayak/)  
+- 🎯 Focused on writing efficient, clean, and optimized code.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Poppins" alt="LeetCode Stats" />
@@ -33,30 +33,24 @@
 
 ---
 
-### 🔨 Projects
-Here are a few of my featured projects:
-- 🧠 *AI Career Assistant* – Uses AI to suggest suitable career paths for students  
-  Tech Stack: Python, NLP, Flask, OpenAI API  
-- 💻 *Portfolio Website* – A personal portfolio built with HTML, CSS, and JavaScript  
-  Tech Stack: HTML, CSS, JavaScript  
-- ⚙ *Student Management System* – A Java-based project for efficient record management  
-  Tech Stack: Java, MySQL  
-- 🌐 *Weather App* – Fetches real-time weather data using public APIs  
-  Tech Stack: Python, Requests, JSON, API Integration  
+### 🔨 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 *AI Career Assistant* | Suggests suitable career paths for students using AI | Python, NLP, Flask, OpenAI API |
+| 💻 *Portfolio Website* | Personal website showcasing projects & achievements | HTML, CSS, JavaScript |
+| ⚙ *Student Management System* | Record management system for students | Java, MySQL |
+| 🌦 *Weather App* | Displays real-time weather using public APIs | Python, Requests, JSON |
 
----
-
-### 🎯 Interests
-- 🤖 Artificial Intelligence  
-- 🛠 Backend Development  
-- 🌍 Real-world software solutions  
-- 📚 Continuous learning & innovation  
-
----
-
-### 📈 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibeditanayak-111NN&repo=AI-Career-Assistant&theme=tokyonight&hide_border=true" alt="Pinned Project" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
 </p>
 
 <p align="center">
@@ -64,15 +58,7 @@ Here are a few of my featured projects:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nibeditanayak-111NN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibeditanayak-111NN&repo=AI-Career-Assistant&theme=tokyonight&hide_border=true" alt="Pinned Project" />
 </p>
 
 ---
@@ -81,6 +67,14 @@ Here are a few of my featured projects:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night" alt="Contribution Graph" />
 </p>
+
+---
+
+### 🎯 Interests
+- 🤖 Artificial Intelligence  
+- 🛠 Backend Development  
+- 🌍 Real-world Software Solutions  
+- 📚 Continuous Learning & Research  
 
 ---
 
@@ -101,4 +95,4 @@ Here are a few of my featured projects:
 
 ---
 
-⭐ "Don’t just learn to code, learn to solve problems that matter."
+⭐ *"Don’t just learn to code — learn to solve problems that matter."
