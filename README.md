@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nibedita Nayak</h1>
-<h3 align="center">💻 CSE Student | AI & Backend Enthusiast | Problem Solver</h3>
+<h1 align="center">👋 Hey, I'm Nibedita Nayak</h1>
+<h3 align="center">💻 CSE Student | AI & Backend Developer | Problem Solver</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 B.Tech in Computer Science and Engineering  
-  from *Gandhi Institute for Education and Technology, Khordha*  
-- 🏫 School: *BBGH, Gopinathapura*  
-- 🏫 Higher Secondary: *Marsaghai Higher Secondary School, Marsaghai*  
-- 💡 Passionate about solving *real-world problems* using technology.  
-- 🌱 Completed *HTML, Java, Python, and Data Structures*.  
-- 🤖 Currently exploring *Artificial Intelligence* and *Backend Development*.  
-- 🚀 Always curious to learn new technologies and build impactful projects.
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at *Gandhi Institute for Education and Technology, Khordha*  
+- 🏫 Schooling from *BBGH, Gopinathapura* and *Marsaghai Higher Secondary School, Marsaghai*  
+- 💡 I love using *code to solve real-world problems* — not just for assignments but to build useful, working solutions.  
+- 🌱 Learned *HTML, Java, Python, and Data Structures; now diving deep into **AI* and *Backend Development*.  
+- 🚀 I thrive on *building, breaking, and improving* tech — learning never stops for me.
 
 ---
 
-### 🚀 Tech Stack
+### ⚙ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux,vscode,flask&perline=7" />
 </p>
@@ -23,9 +20,9 @@
 ---
 
 ### 🧠 Competitive Programming
-- 💬 Practicing problems on *LeetCode* to sharpen my DSA skills.  
-  👉 [View My LeetCode Profile](https://leetcode.com/u/nibedita_nayak/)  
-- 🎯 Focused on writing efficient, clean, and optimized code.
+- 💬 Active on *LeetCode*, improving DSA and problem-solving consistency.  
+  👉 [Check my LeetCode profile](https://leetcode.com/u/nibedita_nayak/)  
+- 🎯 I focus on *writing efficient, readable, and optimized code*, not just solving for output.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Poppins" alt="LeetCode Stats" />
@@ -33,19 +30,19 @@
 
 ---
 
-### 🔨 Featured Projects
+### 🚀 Projects That Define Me
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧠 *AI Career Assistant* | Suggests suitable career paths for students using AI | Python, NLP, Flask, OpenAI API |
-| 💻 *Portfolio Website* | Personal website showcasing projects & achievements | HTML, CSS, JavaScript |
-| ⚙ *Student Management System* | Record management system for students | Java, MySQL |
-| 🌦 *Weather App* | Displays real-time weather using public APIs | Python, Requests, JSON |
+| 🧠 *AI Career Assistant* | AI tool recommending career paths based on user profiles | Python, NLP, Flask, OpenAI API |
+| 💻 *Portfolio Website* | Personal portfolio showcasing my skills and projects | HTML, CSS, JavaScript |
+| ⚙ *Student Management System* | CRUD-based system to manage student records | Java, MySQL |
+| 🌦 *Weather App* | Real-time weather updates using API integration | Python, Requests, JSON |
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&count_private=true" height="165px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
 </p>
 
@@ -68,27 +65,27 @@
 
 ### 🎯 Interests
 - 🤖 Artificial Intelligence  
-- 🛠 Backend Development  
-- 🌍 Real-world Software Solutions  
-- 📚 Continuous Learning & Research  
+- 🧩 Backend Systems & APIs  
+- 🧠 Data-Driven Decision Making  
+- 📚 Research & Continuous Learning  
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nibedita-nayak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nibedita%20Nayak-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nibedita%20Nayak-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
   <a href="mailto:nibeditanayak111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nibeditanayak111%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-nibeditanayak111%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/nibeditanayak-111NN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nibeditanayak--111NN-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-nibeditanayak--111NN-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-⭐ *"Don’t just learn to code — learn to solve problems that matter."*
+⭐ “Don’t just write code — build things that make sense to people.”
