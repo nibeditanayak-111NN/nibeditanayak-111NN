@@ -8,30 +8,40 @@
   at *Gandhi Institute for Education and Technology, Khordha*  
 - 🏫 Schooling: *BBGH, Gopinathapura*  
 - 🏫 Higher Secondary: *Marsaghai Higher Secondary School, Marsaghai*  
-- 💡 I’m passionate about building real-world solutions — from simple utilities to AI-driven tools.  
-- 🌱 Completed *HTML, Java, Python, and Data Structures; now working daily on **AI & Backend Development*.  
-- ⚡ 2025 Goal: Contribute to *open-source, publish small **AI-based projects, and master **DSA consistency*.  
+- 💡 Passionate about building AI-driven tools and scalable backend systems.  
+- 🌱 Completed *HTML, Java, Python, and DSA; now diving deep into **AI & Backend Development*.  
+- ⚡ *2025 Mission:* Publish 5 real-world projects, contribute to open-source, and build a solid GitHub activity streak.  
 
 ---
 
-### ⚙ Daily Tech Stack (My 1-Year Learning Flow)
-> I code or learn something new every day — focusing on long-term mastery.
+### ⚙ Yearly Tech Stack Roadmap (2025)
+> I believe in consistent progress, not overnight mastery.
 
+| Quarter | Focus Area | Tools / Tech | Objective |
+|----------|-------------|--------------|------------|
+| 🗓 *Q1 (Jan–Mar)* | DSA & Core Java | C, Java, LeetCode | Strengthen logic, recursion & OOPs |
+| 🗓 *Q2 (Apr–Jun)* | Backend Development | Flask, REST APIs, MySQL | Build backend CRUD projects |
+| 🗓 *Q3 (Jul–Sep)* | AI & ML Basics | Python, NumPy, Pandas, Scikit-learn | Implement small ML models |
+| 🗓 *Q4 (Oct–Dec)* | Full Stack + Open Source | Flask, HTML, CSS, JS, GitHub | Deploy portfolio & contribute to open source |
+
+---
+
+### ⚙ Daily Tech Stack (Learning Flow)
 | Focus Area | Tools / Tech | Frequency |
 |-------------|--------------|------------|
-| 🧠 *Data Structures & Algorithms* | C, Java, LeetCode | 🔁 Daily Practice |
-| 🤖 *AI & ML Exploration* | Python, NumPy, Pandas, Flask | 🧩 Weekly Projects |
-| ⚙ *Backend Development* | Flask, REST APIs, MySQL | 🔧 Build & Deploy |
-| 🌐 *Frontend Basics* | HTML, CSS, JS | 🎨 For portfolio & UI projects |
-| 🛠 *Version Control & Hosting* | Git, GitHub, Render, Netlify | 📦 Always Active |
+| 🧠 *DSA Practice* | Java, C, LeetCode | 🔁 Daily |
+| 🤖 *AI & ML Exploration* | Python, Pandas, Flask | 🧩 Weekly |
+| ⚙ *Backend Development* | Flask, REST APIs, MySQL | 🔧 Regular |
+| 🌐 *Frontend Basics* | HTML, CSS, JS | 🎨 Monthly refresh |
+| 🛠 *Version Control* | Git, GitHub, Render, Netlify | 📦 Always active |
 
 ---
 
 ### 🧠 Competitive Programming
-- 💬 Practicing on *LeetCode* for logic building and optimization.  
+- Practicing daily on *LeetCode* to improve problem-solving speed.  
   👉 [My LeetCode Profile](https://leetcode.com/u/nibedita_nayak/)  
-- 🎯 Daily streak goal: Solve 1 problem a day to stay consistent.  
-- 🧩 Strong areas: Loops, Arrays, Strings, Recursion, and OOPs.
+- 🎯 *Goal:* 365-day streak of DSA consistency  
+- ⚡ *Strengths:* Arrays, Strings, Recursion, OOPs, Loops  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
@@ -42,11 +52,11 @@
 ### 🚀 Projects That Define My Journey
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧠 *AI Career Assistant* | Recommends career paths using AI insights | Python, NLP, Flask, OpenAI API |
-| 💻 *Portfolio Website* | My personal developer portfolio | HTML, CSS, JavaScript |
+| 🧠 *AI Career Assistant* | Suggests career paths based on user input | Python, NLP, Flask |
+| 💻 *Portfolio Website* | My personal dev portfolio | HTML, CSS, JS |
 | ⚙ *Student Management System* | CRUD app for managing student data | Java, MySQL |
-| 🌦 *Weather App* | Displays live weather using API integration | Python, Requests, JSON |
-| 🔐 *Login Authentication System* (New) | Secure login system with session tracking | Flask, HTML, CSS, SQLite |
+| 🌦 *Weather App* | Real-time weather app | Python, Requests, JSON |
+| 🔐 *Login Authentication System* | Secure login with session tracking | Flask, HTML, CSS, SQLite |
 
 ---
 
@@ -73,12 +83,12 @@
 
 ---
 
-### 🎯 2025 Roadmap & Interests
-- 🧠 Master DSA & OOPs for strong fundamentals  
-- 🧩 Build 5+ AI & Backend-based projects  
-- 🤖 Learn ML basics: Scikit-Learn, Pandas, and Flask deployment  
-- 🌍 Start contributing to open-source repositories  
-- 🚀 Maintain daily GitHub activity & problem-solving streak  
+### 🎯 2025 Goals
+- 🧠 Master DSA and problem-solving  
+- ⚙ Build & deploy 5+ full-stack / AI projects  
+- 🤖 Learn and apply ML with Flask  
+- 🌍 Contribute to at least 3 open-source repos  
+- 🚀 Maintain daily GitHub activity streak  
 
 ---
 
@@ -99,4 +109,4 @@
 
 ---
 
-⭐ “Don’t just write code — build things that make sense to people.”
+⭐ “Code daily. Build boldly. Learn relentlessly.”
