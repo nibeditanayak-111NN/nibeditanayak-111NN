@@ -70,7 +70,7 @@
 
 ### 🔥 Current GitHub Streak (Live)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FFB000&currStreakNum=00FFFB&currStreakLabel=FFB000&sideNums=00FFFB&sideLabels=00FFFB" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&mode=daily&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FFB000&currStreakNum=00FFFB&currStreakLabel=FFB000&sideNums=00FFFB&sideLabels=00FFFB" alt="GitHub Streak" />
 </p>
 
 ---
