@@ -68,13 +68,6 @@
 
 ---
 
-### 🔥 GitHub Streak (Permanent Fixed Version)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&fire=FF4500&ring=FFB000&currStreakNum=00FFFB&currStreakLabel=FFB000&sideNums=00FFFB&sideLabels=00FFFB" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
