@@ -63,14 +63,14 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight&count_private=true" height="165px" />
 </p>
 
 ---
 
 ### 🔥 Current GitHub Streak (Live)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&mode=daily&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FFB000&currStreakNum=00FFFB&currStreakLabel=FFB000&sideNums=00FFFB&sideLabels=00FFFB" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FFB000&currStreakNum=00FFFB&currStreakLabel=FFB000&sideNums=00FFFB&sideLabels=00FFFB&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 
 ### 🧩 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=16&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=16&area=true&hide_border=true&count_private=true" alt="Contribution Graph" />
 </p>
 
 ---
