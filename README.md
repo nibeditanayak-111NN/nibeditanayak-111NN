@@ -82,6 +82,15 @@
 
 ---
 
+### 🔥 GitHub Activity Summary
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Commits-36-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Highest_Streak-3_days-orange?style=for-the-badge&logo=firefox" />
+  <img src="https://img.shields.io/badge/Repos-6-success?style=for-the-badge&logo=repo" />
+</p>
+
+---
+
 ### 🎯 2025 Goals
 - 🧠 Master DSA and problem-solving  
 - ⚙ Build & deploy 5+ full-stack / AI projects  
