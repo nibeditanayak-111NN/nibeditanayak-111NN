@@ -68,16 +68,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak (LeetCode Style)
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak (LeetCode Style)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
