@@ -68,6 +68,13 @@
 
 ---
 
+### 🔥 GitHub Streak (LeetCode Style)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=FF9D00&ring=FFD700&currStreakNum=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=FFD700" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
@@ -78,15 +85,6 @@
 ### 🧩 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=16&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🔥 GitHub Activity Summary
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-36-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Highest_Streak-3_days-orange?style=for-the-badge&logo=firefox" />
-  <img src="https://img.shields.io/badge/Repos-6-success?style=for-the-badge&logo=repo" />
 </p>
 
 ---
