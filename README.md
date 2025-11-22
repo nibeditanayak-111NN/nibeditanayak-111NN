@@ -61,27 +61,27 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak (FIXED)
+### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies (FIXED)
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-### 🧩 Contribution Graph (FIXED)
+### 🧩 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=12&area=true" />
 </p>
