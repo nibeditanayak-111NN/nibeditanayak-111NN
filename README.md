@@ -61,8 +61,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
 </p>
 
 ---
@@ -74,9 +74,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies (100% FIXED & WORKING)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
