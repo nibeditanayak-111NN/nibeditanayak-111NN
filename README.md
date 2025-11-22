@@ -8,100 +8,98 @@
   at *Gandhi Institute for Education and Technology, Khordha*  
 - 🏫 Schooling: *BBGH, Gopinathapura*  
 - 🏫 Higher Secondary: *Marsaghai Higher Secondary School, Marsaghai*  
-- 💡 Passionate about building AI-driven tools and scalable backend systems.  
-- 🌱 Completed *HTML, Java, Python, and DSA; now diving deep into **AI & Backend Development*.  
-- ⚡ *2025 Mission:* Publish 5 real-world projects, contribute to open-source, and build a solid GitHub activity streak.  
+- 💡 Passionate about building AI-driven tools and scalable backend systems  
+- 🌱 Completed *HTML, Java, Python, and DSA*  
+- 🤖 Currently focusing on *AI, Backend APIs, DBMS, and System Thinking*  
+- ⚡ *2025 Mission:* Publish 5 real-world projects + daily GitHub streak + open-source contributions  
 
 ---
 
 ### ⚙ Yearly Tech Stack Roadmap (2025)
-> I believe in consistent progress, not overnight mastery.
-
 | Quarter | Focus Area | Tools / Tech | Objective |
-|----------|-------------|--------------|------------|
-| 🗓 *Q1 (Jan–Mar)* | DSA & Core Java | C, Java, LeetCode | Strengthen logic, recursion & OOPs |
-| 🗓 *Q2 (Apr–Jun)* | Backend Development | Flask, REST APIs, MySQL | Build backend CRUD projects |
-| 🗓 *Q3 (Jul–Sep)* | AI & ML Basics | Python, NumPy, Pandas, Scikit-learn | Implement small ML models |
-| 🗓 *Q4 (Oct–Dec)* | Full Stack + Open Source | Flask, HTML, CSS, JS, GitHub | Deploy portfolio & contribute to open source |
+|--------|-------------|--------------|-----------|
+| 🗓 *Q1* | DSA & Java Core | Java, C, LeetCode | Strong logic + recursion |
+| 🗓 *Q2* | Backend APIs | Flask, REST APIs, MySQL | Build CRUD systems |
+| 🗓 *Q3* | AI & ML Basics | Python, Pandas, sklearn | ML mini-projects |
+| 🗓 *Q4* | Full Stack + Open Source | Flask, JS, GitHub | Deploy & contribute |
 
 ---
 
-### ⚙ Daily Tech Stack (Learning Flow)
-| Focus Area | Tools / Tech | Frequency |
-|-------------|--------------|------------|
-| 🧠 *DSA Practice* | Java, C, LeetCode | 🔁 Daily |
-| 🤖 *AI & ML Exploration* | Python, Pandas, Flask | 🧩 Weekly |
-| ⚙ *Backend Development* | Flask, REST APIs, MySQL | 🔧 Regular |
-| 🌐 *Frontend Basics* | HTML, CSS, JS | 🎨 Monthly refresh |
-| 🛠 *Version Control* | Git, GitHub, Render, Netlify | 📦 Always active |
+### ⚙ Daily Tech Stack Plan
+| Focus Area | Tools | Frequency |
+|-----------|--------|-----------|
+| 🧠 DSA Practice | Java, C | 🔁 Daily |
+| 🤖 AI/ML | Python, Pandas | 🧩 Weekly |
+| ⚙ Backend Dev | Flask, APIs | 🔧 Regular |
+| 🌐 Frontend | HTML, CSS, JS | 🎨 Monthly |
+| 🛠 Version Control | Git, GitHub | 🔥 Daily |
 
 ---
 
 ### 🧠 Competitive Programming
-- Practicing daily on *LeetCode* to improve problem-solving speed.  
-  👉 [My LeetCode Profile](https://leetcode.com/u/nibedita_nayak/)  
-- 🎯 *Goal:* 365-day streak of DSA consistency  
-- ⚡ *Strengths:* Arrays, Strings, Recursion, OOPs, Loops  
+👉 *LeetCode*: https://leetcode.com/u/nibedita_nayak  
+- Practicing daily to grow problem-solving speed  
+- 🎯 Goal: 365-day coding streak  
+- Expertise: Arrays, Strings, Loops, OOPs, Recursion  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Poppins&ext=heatmap" />
 </p>
 
 ---
 
-### 🚀 Projects That Define My Journey
+### 🚀 Projects
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧠 *AI Career Assistant* | Suggests career paths based on user input | Python, NLP, Flask |
-| 💻 *Portfolio Website* | My personal dev portfolio | HTML, CSS, JS |
-| ⚙ *Student Management System* | CRUD app for managing student data | Java, MySQL |
-| 🌦 *Weather App* | Real-time weather app | Python, Requests, JSON |
-| 🔐 *Login Authentication System* | Secure login with session tracking | Flask, HTML, CSS, SQLite |
+|--------|-------------|------------|
+| 🧠 AI Career Assistant | Career prediction app | Python, NLP, Flask |
+| 💻 Portfolio Website | Personal website | HTML, CSS, JS |
+| ⚙ Student Management System | CRUD app | Java, MySQL |
+| 🌦 Weather App | Real-time weather | Python, JSON |
+| 🔐 Login Auth System | Secure login system | Flask, SQLite |
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak (FIXED)
 <p align="center">
-  <!-- stable streak image (vercel) avoids camo errors -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies (FIXED)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-### 🧩 Contribution Graph
+### 🧩 Contribution Graph (FIXED)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=16&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=12&area=true" />
 </p>
 
 ---
 
 ### 🎯 2025 Goals
-- 🧠 Master DSA and problem-solving  
-- ⚙ Build & deploy 5+ full-stack / AI projects  
-- 🤖 Learn and apply ML with Flask  
-- 🌍 Contribute to at least 3 open-source repos  
-- 🚀 Maintain daily GitHub activity streak  
+- 🧠 Master DSA  
+- ⚙ Build 5+ real projects  
+- 🤖 Learn ML + AI apps  
+- 🌍 3+ open-source PRs  
+- 🔥 Maintain GitHub streak  
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nibedita-nayak" target="_blank">
+  <a href="https://www.linkedin.com/in/nibedita-nayak">
     <img src="https://img.shields.io/badge/LinkedIn-Nibedita%20Nayak-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
@@ -109,11 +107,11 @@
     <img src="https://img.shields.io/badge/Gmail-nibeditanayak111%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/nibeditanayak-111NN" target="_blank">
+  <a href="https://github.com/nibeditanayak-111NN">
     <img src="https://img.shields.io/badge/GitHub-nibeditanayak--111NN-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-⭐ “Code daily. Build boldly. Learn relentlessly.”
+⭐ *“Code daily. Build boldly. Learn relentlessly.”*
