@@ -74,7 +74,7 @@
 
 ---
 
-### 🏆 GitHub Trophies (100% FIXED & WORKING)
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=radical&no-frame=true&margin-w=15" />
 </p>
