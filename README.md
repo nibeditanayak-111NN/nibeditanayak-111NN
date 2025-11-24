@@ -61,29 +61,29 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NibeditaNayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibeditaNayak-111NN&layout=compact&theme=tokyonight" height="165px" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=NibeditaNayak-111NN&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NibeditaNayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ### 🧩 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=12&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NibeditaNayak-111NN&theme=tokyo-night&radius=12&area=true" />
 </p>
 
 ---
@@ -107,8 +107,8 @@
     <img src="https://img.shields.io/badge/Gmail-nibeditanayak111%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/nibeditanayak-111NN">
-    <img src="https://img.shields.io/badge/GitHub-nibeditanayak--111NN-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/NibeditaNayak-111NN">
+    <img src="https://img.shields.io/badge/GitHub-NibeditaNayak--111NN-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
