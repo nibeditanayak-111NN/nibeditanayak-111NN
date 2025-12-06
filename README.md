@@ -59,14 +59,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NibeditaNayak-111NN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibeditaNayak-111NN&layout=compact&theme=tokyonight" height="165px" />
-</p>
-
----
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NibeditaNayak-111NN&theme=tokyonight&hide_border=false" />
