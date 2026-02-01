@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 GitHub Streak (100% FIXED – PRIMARY + BACKUP)
+### 🔥 GitHub Streak 
 <p align="center">
   <!-- Primary -->
   <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight&hide_border=false" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🏆 GitHub Trophies (100% FIXED – PRIMARY + BACKUP)
+### 🏆 GitHub Trophies 
 <p align="center">
   <!-- Primary -->
   <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=flat&no-frame=true&margin-w=15" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧩 Contribution Graph (WORKING)
+### 🧩 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=12&area=true" />
 </p>
