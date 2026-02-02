@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Year-2026-informational?style=for-the-badge"/>
 </p>
 
 ---
