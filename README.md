@@ -1,86 +1,119 @@
-# Nibedita Nayak  
-### CSE Student • AI & Backend Developer • Problem Solver
+<h1 align="center">👋 Hey, I'm Nibedita Nayak</h1>
+<h3 align="center">💻 CSE Student | AI & Backend Developer | Lifelong Learner</h3>
 
 ---
 
-## About
-Focused on building **reliable backend systems** and **practical AI applications**.  
-I value **clean logic, scalability, and real-world usefulness** over flashy demos.
+### 👩‍💻 About Me
+- 🎓 Pursuing *B.Tech in Computer Science and Engineering*  
+  at **Gandhi Institute for Education and Technology, Khordha**  
+- 🏫 *Schooling:* **BBGH, Gopinathapura**  
+- 🏫 *Higher Secondary:* **Marsaghai Higher Secondary School, Marsaghai**  
+- 💡 Passionate about building *AI-driven tools and scalable backend systems*.  
+- 🌱 Completed **HTML, Java, Python, and DSA**; now diving deep into **AI & Backend Development**.  
+- ⚡ **2025 Mission:** Publish 5 real-world projects, contribute to open-source, and build a solid GitHub activity streak.  
 
 ---
 
-## Education
-- 🎓 **B.Tech in Computer Science and Engineering**  
-  Gandhi Institute for Education and Technology, Khordha  
-- 🏫 Schooling: BBGH, Gopinathapura  
-- 🏫 Higher Secondary: Marsaghai Higher Secondary School, Marsaghai  
+### ⚙ Yearly Tech Stack Roadmap (2025)
+> I believe in *consistent progress, not overnight mastery.*
+
+| Quarter | Focus Area | Tools / Tech | Objective |
+|----------|-------------|--------------|------------|
+| 🗓 **Q1 (Jan–Mar)** | DSA & Core Java | C, Java, LeetCode | Strengthen logic, recursion & OOPs |
+| 🗓 **Q2 (Apr–Jun)** | Backend Development | Flask, REST APIs, MySQL | Build backend CRUD projects |
+| 🗓 **Q3 (Jul–Sep)** | AI & ML Basics | Python, NumPy, Pandas, Scikit-learn | Implement small ML models |
+| 🗓 **Q4 (Oct–Dec)** | Full Stack + Open Source | Flask, HTML, CSS, JS, GitHub | Deploy portfolio & contribute to open source |
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight)
+### ⚙ Daily Tech Stack (Learning Flow)
+| Focus Area | Tools / Tech | Frequency |
+|-------------|--------------|------------|
+| 🧠 **DSA Practice** | Java, C, LeetCode | 🔁 Daily |
+| 🤖 **AI & ML Exploration** | Python, Pandas, Flask | 🧩 Weekly |
+| ⚙ **Backend Development** | Flask, REST APIs, MySQL | 🔧 Regular |
+| 🌐 **Frontend Basics** | HTML, CSS, JS | 🎨 Monthly refresh |
+| 🛠 **Version Control** | Git, GitHub, Render, Netlify | 📦 Always active |
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight)
+### 🧠 Competitive Programming
+- Practicing daily on **LeetCode** to improve problem-solving speed.  
+  👉 [My LeetCode Profile](https://leetcode.com/u/nibedita_nayak/)  
+- 🎯 **Goal:** 365-day streak of DSA consistency  
+- ⚡ **Strengths:** Arrays, Strings, Recursion, OOPs, Loops  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
-## 🧩 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=8)
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=flat&no-frame=true&margin-w=10)
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Java, Python, C  
-- **Web:** HTML, CSS, JavaScript  
-- **Backend:** Flask, Java (JDBC)  
-- **Databases:** MySQL, SQLite  
-- **Core CS:** DSA, OOP, DBMS  
-- **Tools:** Git, GitHub, VS Code  
-
----
-
-## 🚀 Projects
+### 🚀 Projects That Define My Journey
 | Project | Description | Tech Stack |
-|------|------------|-----------|
-| 🧠 AI Career Assistant | Career guidance using logic + NLP | Python, Flask |
-| 💻 Portfolio Website | Personal portfolio | HTML, CSS, JavaScript |
-| ⚙ Student Management System | CRUD-based system | Java, MySQL |
-| 🌦 Weather App | Real-time weather data | Python, API |
-| 🔐 Login Authentication System | Secure authentication | Flask, SQLite |
+|----------|--------------|-------------|
+| 🧠 **AI Career Assistant** | Suggests career paths based on user input | Python, NLP, Flask |
+| 💻 **Portfolio Website** | My personal dev portfolio | HTML, CSS, JS |
+| ⚙ **Student Management System** | CRUD app for managing student data | Java, MySQL |
+| 🌦 **Weather App** | Real-time weather app | Python, Requests, JSON |
+| 🔐 **Login Authentication System** | Secure login with session tracking | Flask, HTML, CSS, SQLite |
 
 ---
 
-## 🎯 2026 Goals
-- Master **DSA for interviews**
-- Build **production-grade backend projects**
-- Develop **real AI-powered applications**
-- Contribute to **open-source**
-- Maintain **consistent GitHub activity**
-- Become **industry-ready before final year**
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibeditanayak-111NN&layout=compact&theme=tokyonight" height="165px" />
+</p>
 
 ---
 
-## 📌 Currently Working On
-- Backend fundamentals & API design  
-- Writing clean, maintainable code  
-- Improving problem-solving speed  
-- Technical interview preparation  
+### 🔥 GitHub Streak
+<p align="center">
+  <!-- stable streak image (vercel) avoids camo errors -->
+  <img src="https://github-readme-streak-stats.vercel.app?user=nibeditanayak-111NN&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📫 Contact
-- 🔗 LinkedIn: https://www.linkedin.com/in/nibedita-nayak  
-- 📧 Email: nibeditanayak111@gmail.com  
-- 💻 GitHub: https://github.com/nibeditanayak-111NN  
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
-*Build useful systems. Improve every day.*
+### 🧩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=16&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎯 2025 Goals
+- 🧠 Master DSA and problem-solving  
+- ⚙ Build & deploy 5+ full-stack / AI projects  
+- 🤖 Learn and apply ML with Flask  
+- 🌍 Contribute to at least 3 open-source repos  
+- 🚀 Maintain daily GitHub activity streak  
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nibedita-nayak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nibedita%20Nayak-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:nibeditanayak111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nibeditanayak111%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nibeditanayak-111NN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-nibeditanayak--111NN-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ *“Code daily. Build boldly. Learn relentlessly.”*
