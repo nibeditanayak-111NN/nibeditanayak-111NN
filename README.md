@@ -1,26 +1,24 @@
-# 👋 Hi, I'm Nibedita Nayak
-
-### 💻 CSE Student | AI & Backend Developer | Lifelong Learner
+# Nibedita Nayak  
+### CSE Student • AI & Backend Developer • Problem Solver
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering**  
-  **Gandhi Institute for Education and Technology, Khordha**
-- 🏫 Schooling: **BBGH, Gopinathapura**
-- 🏫 Higher Secondary: **Marsaghai Higher Secondary School, Marsaghai**
-- 💡 Interested in **AI-driven applications and scalable backend systems**
-- 🌱 Completed **HTML, Java, Python, and DSA**
-- 🤖 Currently focusing on **AI, Backend APIs, DBMS, and System Design**
-- ⚡ **2025 Mission:**  
-  - Build 5 real-world projects  
-  - Maintain daily GitHub consistency  
-  - Contribute to open source  
+## About
+Focused on building **reliable backend systems** and **practical AI applications**.  
+I value **clean logic, scalability, and real-world usefulness** over flashy demos.
+
+---
+
+## Education
+- 🎓 **B.Tech in Computer Science and Engineering**  
+  Gandhi Institute for Education and Technology, Khordha  
+- 🏫 Schooling: BBGH, Gopinathapura  
+- 🏫 Higher Secondary: Marsaghai Higher Secondary School, Marsaghai  
 
 ---
 
 ## 📊 GitHub Stats
-![Nibedita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibeditanayak-111NN&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -30,35 +28,59 @@
 ---
 
 ## 🧩 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=8)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=flat&no-frame=true&margin-w=10)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, C  
+- **Web:** HTML, CSS, JavaScript  
+- **Backend:** Flask, Java (JDBC)  
+- **Databases:** MySQL, SQLite  
+- **Core CS:** DSA, OOP, DBMS  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## 🚀 Projects
 | Project | Description | Tech Stack |
-|-------|-------------|------------|
-| 🧠 AI Career Assistant | Career prediction system | Python, NLP, Flask |
+|------|------------|-----------|
+| 🧠 AI Career Assistant | Career guidance using logic + NLP | Python, Flask |
 | 💻 Portfolio Website | Personal portfolio | HTML, CSS, JavaScript |
-| ⚙ Student Management System | CRUD-based application | Java, MySQL |
-| 🌦 Weather App | Real-time weather updates | Python, API |
-| 🔐 Login Auth System | Secure authentication | Flask, SQLite |
+| ⚙ Student Management System | CRUD-based system | Java, MySQL |
+| 🌦 Weather App | Real-time weather data | Python, API |
+| 🔐 Login Authentication System | Secure authentication | Flask, SQLite |
 
 ---
 
-## 🎯 2025 Goals
-- 🧠 Strong DSA fundamentals  
-- ⚙ Build production-level projects  
-- 🤖 Apply ML & AI in real apps  
-- 🌍 Open-source contributions  
-- 🔥 Consistent GitHub activity  
+## 🎯 2026 Goals
+- Master **DSA for interviews**
+- Build **production-grade backend projects**
+- Develop **real AI-powered applications**
+- Contribute to **open-source**
+- Maintain **consistent GitHub activity**
+- Become **industry-ready before final year**
 
 ---
 
-## 📫 Connect With Me
+## 📌 Currently Working On
+- Backend fundamentals & API design  
+- Writing clean, maintainable code  
+- Improving problem-solving speed  
+- Technical interview preparation  
+
+---
+
+## 📫 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/nibedita-nayak  
 - 📧 Email: nibeditanayak111@gmail.com  
 - 💻 GitHub: https://github.com/nibeditanayak-111NN  
 
 ---
 
-⭐ *Code daily. Build boldly. Learn relentlessly.*
+*Build useful systems. Improve every day.*
