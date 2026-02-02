@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Nibedita Nayak</h1>
-<h3 align="center">CSE Student • AI & Backend Developer • Problem Solver</h3>
+<h1 align="center">Hey,i'm Nibedita Nayak</h1>
+<h3 align="center">CSE Student • AI & ML Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Year-2026-informational?style=for-the-badge"/>
 </p>
@@ -12,10 +12,10 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a **Computer Science student** focused on building **reliable backend systems** and **practical AI-powered applications**.
+I’m a **Computer Science student** focused on building **practical AI & ML applications** that solve real-world problems.
 
 I believe in:
-- clean logic over shortcuts  
+- strong fundamentals over shortcuts  
 - real projects over fake metrics  
 - consistency over hype  
 
@@ -50,6 +50,11 @@ I believe in:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+### 🤖 AI & ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge)
+
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,7 +75,7 @@ I believe in:
 ## 🚀 Projects
 | Project | Description | Tech |
 |------|------------|------|
-| 🧠 **AI Career Assistant** | Career guidance using logic & NLP | Python, Flask |
+| 🧠 **AI Career Assistant** | Career guidance using ML & NLP | Python, Flask |
 | 💻 **Portfolio Website** | Personal portfolio website | HTML, CSS, JS |
 | ⚙ **Student Management System** | CRUD-based system | Java, MySQL |
 | 🌦 **Weather App** | Real-time weather updates | Python, API |
@@ -80,8 +85,8 @@ I believe in:
 
 ## 🎯 2026 Goals
 - 🧠 Master **DSA for interviews**
-- ⚙ Build **production-grade backend systems**
-- 🤖 Develop **real AI applications**
+- 🤖 Build **real AI & ML applications**
+- 📊 Strengthen **data & model understanding**
 - 🌍 Contribute to **open-source**
 - 📈 Stay **consistent on GitHub**
 - 💼 Be **industry-ready before final year**
@@ -89,9 +94,9 @@ I believe in:
 ---
 
 ## 📌 Currently Working On
-- Backend APIs & system design basics  
-- Writing clean, maintainable code  
-- Improving problem-solving speed  
+- Machine Learning fundamentals  
+- Applying ML to real datasets  
+- Writing clean, readable code  
 - Technical interview preparation  
 
 ---
@@ -111,4 +116,4 @@ I believe in:
 
 ---
 
-⭐ *Build useful systems. Improve every day.*
+⭐ *Learn deeply. Build intelligently. Improve every day.*
