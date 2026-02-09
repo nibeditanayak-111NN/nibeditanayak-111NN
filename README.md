@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hey,i'm Nibedita Nayak</h1>
+<h1 align="center">Hey, I'm Nibedita Nayak</h1>
 <h3 align="center">CSE Student • AI & ML Developer • Problem Solver</h3>
 
 <p align="center">
@@ -38,6 +38,13 @@ I believe in:
 ## 🧩 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=10&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nibeditanayak-111NN&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
