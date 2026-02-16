@@ -40,7 +40,6 @@ I believe in:
   </sub>
 </p>
 
-<sub>Focused on meaningful contributions, not artificial streaks.</sub>
 
 ---
 
