@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building Everyday-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building%20Everyday-success?style=for-the-badge"/>
 </p>
 
 ---
@@ -28,10 +28,19 @@ I believe in:
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <sub>
+    Tracks consecutive days with at least one valid contribution<br/>
+    (commits pushed, pull requests, or issues — UTC based)
+  </sub>
+</p>
+
+<sub>Focused on meaningful contributions, not artificial streaks.</sub>
 
 ---
 
@@ -87,7 +96,7 @@ I believe in:
 - 🤖 Build **real AI & ML applications**
 - 📊 Strengthen **data & model understanding**
 - 🌍 Contribute to **open-source**
-- 📈 Stay **consistent on GitHub**
+- 📈 Stay **consistent**
 - 💼 Be **industry-ready before final year**
 
 ---
