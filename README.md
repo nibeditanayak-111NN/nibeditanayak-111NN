@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hey, I'm Nibedita Nayak</h1>
-<h3 align="center">CSE Student • AI & ML Developer • Problem Solver</h3>
+<h3 align="center">CSE Student • AI & ML Learner • Problem Solver</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge"/>
@@ -40,13 +40,42 @@ I believe in:
   </sub>
 </p>
 
-
 ---
 
 ## 🧩 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=10&area=true" />
 </p>
+
+---
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nibedita_nayak?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🔥 LeetCode Activity
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=nibedita_nayak&theme=dark" />
+</p>
+
+---
+
+## 📊 LeetCode Progress
+- 🟢 Easy: 4  
+- 🟡 Medium: 1  
+- 🔴 Hard: 1  
+- 🧠 Total Solved: 6  
+- 🔥 Max Streak: 1 (improving...)
+
+---
+
+## 📌 Currently Practicing (DSA)
+- Arrays & Strings  
+- Basic Problem Solving  
+- Improving consistency on LeetCode  
 
 ---
 
