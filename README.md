@@ -56,13 +56,6 @@ I believe in:
 
 ---
 
-## 🔥 LeetCode Activity
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=nibedita_nayak&theme=dark" />
-</p>
-
----
-
 ## 📊 LeetCode Progress
 - 🟢 Easy: 4  
 - 🟡 Medium: 1  
