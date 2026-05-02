@@ -56,15 +56,6 @@ I believe in:
 
 ---
 
-## 📊 LeetCode Progress
-- 🟢 Easy: 4  
-- 🟡 Medium: 1  
-- 🔴 Hard: 1  
-- 🧠 Total Solved: 6  
-- 🔥 Max Streak: 1 (improving...)
-
----
-
 ## 📌 Currently Practicing (DSA)
 - Arrays & Strings  
 - Basic Problem Solving  
