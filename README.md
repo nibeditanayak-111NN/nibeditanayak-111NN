@@ -56,7 +56,7 @@ I believe in:
 
 ---
 
-## 🧠 HackerRank
+## 🧠 HackerRank Status
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/nibeditanayak474">
@@ -66,10 +66,11 @@ I believe in:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2★-2EC866?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Beginner-orange?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  💡 Practicing problem-solving and strengthening DSA fundamentals consistently
+  🚀 Actively solving DSA problems and improving problem-solving skills consistently
 </p>
 
 ---
