@@ -1,4 +1,4 @@
-a<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hey, I'm Nibedita Nayak</h1>
 <h3 align="center">CSE Student • AI & ML Learner • Problem Solver</h3>
@@ -56,10 +56,28 @@ I believe in:
 
 ---
 
+## 🧠 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/nibeditanayak474">
+    <img src="https://img.shields.io/badge/View%20Profile-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2★-2EC866?style=for-the-badge&logo=hackerrank"/>
+</p>
+
+<p align="center">
+  💡 Practicing problem-solving and strengthening DSA fundamentals consistently
+</p>
+
+---
+
 ## 📌 Currently Practicing (DSA)
 - Arrays & Strings  
 - Basic Problem Solving  
-- Improving consistency on LeetCode  
+- Improving consistency on LeetCode & HackerRank  
 
 ---
 
