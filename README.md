@@ -169,7 +169,7 @@ I believe in:
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/nibedita-nayak">
+  <a href="https://www.linkedin.com/in/nibedita-nayak-1b1328350/">
     <img src="https://img.shields.io/badge/LinkedIn-Nibedita%20Nayak-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
