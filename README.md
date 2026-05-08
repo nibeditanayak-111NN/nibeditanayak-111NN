@@ -38,13 +38,6 @@ I believe in:
   <img src="https://streak-stats.demolab.com?user=nibeditanayak-111NN&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <sub>
-    Tracks consecutive days with at least one valid contribution<br/>
-    (commits pushed, pull requests, or issues — UTC based)
-  </sub>
-</p>
-
 ---
 
 ## 🧩 Contribution Graph
@@ -77,8 +70,6 @@ I believe in:
 </p>
 
 <p align="center">
-  🚀 Actively solving DSA problems and improving problem-solving skills consistently
-</p>
 
 ---
 
