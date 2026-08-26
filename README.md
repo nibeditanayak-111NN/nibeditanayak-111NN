@@ -43,7 +43,7 @@ I believe in:
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibeditanayak-111NN&theme=tokyo-night&radius=10&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=nibeditanayak-111NN&theme=tokyo-night&radius=10&area=true&hide_border=true" />
 </p>
 
 ---
